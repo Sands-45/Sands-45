@@ -2,7 +2,7 @@
 
 - I'm currently working on polishing front-end Dev 👨‍💻.
 - Also learning some new skills on back-end .
-- I would be hapy to collaborate with you on front-end projects or open sauce🌐.
+- I would be hapy to collaborate with you on front-end projects or open source🌐.
 - I love 💖 spending my time learning new proggrams and refining my knowledge.
 - You can contact me Here : sandqa@homail.com 📩.
 
