@@ -1,12 +1,37 @@
-### Hi there...it's Sands Here 👋
+# Introduction ContribHack
 
-- 🔭 I’m currently working on Polish My front-End Development Skills
-- 🌱 I’m currently learning Back-End Dev
-- 👯 I’m looking to collaborate on Front-End Projects
-- 🤔 I’m looking for help with Back-End
-- 💬 Ask me about ... Web Designing
-- 📫 How to reach me: Email me @sandqa@hotmail.com
-- ⚡ Fun fact: ... I'm a Nerd 🤣
-<b><h2>About</h2></b>
- My Portfolio : https://sands-45.github.io/  <br>
-I’ve been a professional QA Analyst since 2018. I believe in maintaining a positive mindset, creating opportunities with a purpose, and always striving for significant outcomes. When you work with me, you should expect a collaboration with transparency and consistency. In my personal life I'm a Prop Trader , friendly and a caring individuals. More of analytical person , data driven and ambitious.
+This Repo contains the Program for the Hack of GitHub Contribution Graph.
+
+## How to use it?
+
+- Download/Clone the repo to your computer.
+- Copy the files from the folder into your desired repository.
+- Initialize the Repo:
+
+```
+npm init
+```
+
+- Fill the fields asked by npm init.
+- Install the requirements (Mentioned below).
+- Finally run:
+
+```
+node index.js
+```
+
+- This fills the Repo with empty commits till the current date.
+  Since no pattern file is provided it will fill randomly.
+- You can also adjust the number of commits you want to push by changing the number in 'makeCommit' function in the last line of index.js file.
+
+## Make a custom pattern
+
+- Your pattern file is like a grid with dimensions of 7\*X. (7 rows and X>0 columns)
+- Each cell in the grid represents number of commits to be made on a day.
+
+## Requirements
+
+```
+npm i jsonfile
+npm i simple-git
+```
