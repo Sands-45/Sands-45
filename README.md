@@ -11,5 +11,6 @@
 
 <h2> My Portfolio </h2><br>
 https://sands-45.github.io/ <br>
-I’ve been a professional QA Analyst since 2018.I believe in maintaining a positive mindset, creating opportunities with a purpose, 
- and always striving for significant outcomes. When you work with me, you should expect a collaboration with transparency and consistency. In my personal life I'm a Prop Trader , friendly and a caring individuals. More of analytical person , data driven and ambitious.
+
+“Optimism is an occupational hazard of programming: feedback is the treatment. “ Kent Beck
+I'm a passionate programmer who loves data and problem-solving.I've been doing this for a while now and not planning to stop. I've gained so much experience and knowledge over the past years working as a QA to Performance analyst, seeing the need and some gaps or insufficiencies in tools used I've became an innovative programmer and a problem solver through data and some coding of cause.
