@@ -5,7 +5,7 @@
 - I would be hapy to collaborate with you on front-end projects or open source🌐.
 - I love 💖 spending my time learning new languages and skills or refining my knowledge.
 - You can contact me Here : sandqa@homail.com 📩.
-- Techs & Skills (JavaScript, Html5, CSS3, SASS, XML, Bulma, Bootsrap, jQuery, React, Babel, Git, Github, Bash/Terminal, Slack, Excel, SQL)
+- Techs & Skills (JavaScript, Html5, CSS3, SASS, XML, Bulma, Bootsrap, jQuery, React, Git, Github, Bash/Terminal, Slack, Excel, SQL)
 - Learning (Python, PHP, R, Ruby , Java, C++, C#)
 
 
