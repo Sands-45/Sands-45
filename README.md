@@ -7,6 +7,7 @@
 - You can contact me Here : sandqa@hotmail.com 📩.
 - Techs & Skills (JavaScript,TypeScript, Html5, CSS3, SASS, Tailwind, Bulma, Bootsrap, jQuery, React,Redux, Git, Github, Bash/Terminal,Npm, Slack, Excel, SQL)
 - Learning (Python, PHP, R, Ruby , Java, C++, C#)
+- tTo create react app and include tailwind use <code>npx create-react-app [project-name] --template cra-template-tailwind-starter</code>
 
 
 # About </h2>
