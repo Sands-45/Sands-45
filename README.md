@@ -5,7 +5,7 @@
 - I would be hapy to collaborate with you on front-end projects or open source🌐.
 - I love 💖 spending my time learning new languages and skills or refining my knowledge.
 - You can contact me Here : sandqa@hotmail.com 📩.
-- Techs & Skills (JavaScript,TypeScript, Html5, CSS3, SASS, Tailwind, Bulma, Bootsrap, jQuery, React,Redux, Git, Github, Bash/Terminal,Npm, Slack, Excel, SQL)
+- Techs & Skills (JavaScript,TypeScript,Appscript, Html5, CSS3, SASS, Tailwind, Bulma, Bootsrap, jQuery, React,Redux, Git, Github, Bash/Terminal,Npm, Slack, Excel, SQL)
 - Learning (Python, PHP, R, Ruby , Java, C++, C#)
 - To create react app and include tailwind use <code>npx create-react-app [project-name] --template cra-template-tailwind-starter</code> then to enable JIT mode add <code> "start":"cross-env TAILWIND_MODE=watch craco start"</code> in the package.json under stripts and add <code> mode:"jit</code> in tailwind config file as well as updating the purge array.
 
