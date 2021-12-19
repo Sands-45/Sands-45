@@ -3,7 +3,7 @@
 - I'm currently working on polishing full-Stack Dev 👨‍💻.
 - Also learning some new skills on Data Science and Performance Analysis.
 - I would be hapy to collaborate with on any open source🌐 project.
-- I love 💖 spending my time learning new languages and skills or refining my knowledge.
+- I love �❤️ spending my time learning new languages and skills or refining my knowledge.
 - You can contact me Here : sandqa@hotmail.com 📩.
 - Techs & Skills (JavaScript,TypeScript,Appscript, Html5, CSS3, SASS, Tailwindcss, Bulma, Bootsrap, jQuery, React,Redux/redux-toolkit, Git, Github, Bash/Terminal,Npm, D3, Excel, SQL, Firebase)
 - Learning (Python, Java, C#)
