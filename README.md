@@ -1,6 +1,6 @@
 # Hi ... It's Sands Here 👋
 
-- I'm currently working on polishing full-Stack Dev 👨‍💻.
+- I'm currently working on polishing MERN-Stack Dev 👨‍💻.
 - Also learning some new skills on Data Science and Performance Analysis.
 - I would be hapy to collaborate with on any open source🌐 project.
 - I love �❤️ spending my time learning new languages and skills or refining my knowledge.
