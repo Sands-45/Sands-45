@@ -9,6 +9,15 @@
 - Learning (Python, Java, C#)
 - To create react app and include tailwind use:
 - <code>npx create-react-app [project-name]</code> then <code> npm install -D tailwindcss postcss autoprefixer <br/>npx tailwindcss init -p<br/>npm install react-scripts@latest</code> in the package.json under stripts and add <code> mode:"jit</code> in tailwind config file as well as updating the purge array.
+- To Delpoy Your Node express App on Heroku using CLI type the following:
+<ul>
+  <li>First Login using - heroku login (hten follow the prompts)</li>
+  <li>Next type - heroku create [your-app] (should start and end in lowercase or a digit)</li>
+  <li>To link your repository or initialize it using - git init </li>
+  <li>Add All changes by running - git add  then git commit -am "comment"</li>
+  <li> Last then run - git push heroku master to push all change</li>
+</ul>
+<p>Don't forget to ignore your .env file and changing your start script to comething like "node app.js". <br/> You can add config vars on heroku or using the cli</p>
 
 
 # About </h2>
