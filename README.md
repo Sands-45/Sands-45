@@ -27,7 +27,18 @@
 “Optimism is an occupational hazard of programming: feedback is the treatment. “ Kent Beck<br>
 I'm a passionate programmer who loves data and problem-solving.My journey started back 2018 using no-code tools/softwares but with limitation and the eager to learn I decided to learn and do it the hard way. I've gained so much experience and knowledge over the past years working as a QA to Performance analyst, seeing the need and some gaps or insufficiencies in tools used I've became an innovative programmer and a problem solver.
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+</head>
+
+<body class="bg-slate-700 m-0 p-0">
+<codersrank-summary username="Sands-45"></codersrank-summary>
+  
 <!-- replace x.x.x with actual version -->
 <script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
+</body>
 
-<codersrank-summary username="Sands-45"></codersrank-summary>
+</html>
