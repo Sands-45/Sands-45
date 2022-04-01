@@ -36,9 +36,9 @@ I'm a passionate programmer who loves data and problem-solving.My journey starte
 
 <body class="bg-slate-700 m-0 p-0">
 <codersrank-summary username="Sands-45"></codersrank-summary>
+</body>
+
   
 <!-- replace x.x.x with actual version -->
 <script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
-</body>
-
 </html>
