@@ -5,7 +5,7 @@
 - I would be happy to collaborate/contribute in any open source🌐 project.
 - I love �❤️ spending my time learning new languages and skills or refining my knowledge.
 - You can contact me Here : sandqa@hotmail.com 📩.
-- Techs & Skills <code>console.log(JavaScript,TypeScript,Appscript, Html5, CSS3, SASS, Tailwindcss, Bulma, Bootsrap, jQuery, React,Redux/redux-toolkit, Git, Github, Bash/Terminal,Npm, D3, ApexCharts, ECharts, Excel, SQL, Firebase, Express.js, Node.js, MongoDB)</code>
+- Techs & Skills <code>console.log(JavaScript,TypeScript,Appscript, Html5, CSS3, SASS, Tailwindcss, Bulma, Bootsrap, jQuery, React,Redux/redux-toolkit, Next.js, Git, Github, Bash/Terminal,Npm, D3, ApexCharts, ECharts, Excel, SQL, Firebase, Express.js, Node.js, MongoDB)</code>
 - Learning (Python, Electron JS)
 - To create react app and include tailwind use:
 - <code>npx create-react-app [project-name]</code> then <code> npm install -D tailwindcss postcss autoprefixer <br/>npx tailwindcss init -p<br/>npm install react-scripts@latest</code> in the package.json under stripts and add <code> mode:"jit</code> in tailwind config file as well as updating the purge array.
