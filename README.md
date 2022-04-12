@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sands (Elue)</h1>
+<h1 align="center">Hi 👋, I'm Sands</h1>
 <h3 align="center">“Optimism is an occupational hazard of programming: feedback is the treatment. “ Kent Beck I'm a passionate programmer who loves data and problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sands-45&label=Profile%20views&color=0e75b6&style=flat" alt="sands-45" /> </p>
