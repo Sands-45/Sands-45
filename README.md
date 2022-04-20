@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://profile.codersrank.io/user/sands-45/](https://profile.codersrank.io/user/sands-45/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sands-45&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
