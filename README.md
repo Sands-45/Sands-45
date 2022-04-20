@@ -38,10 +38,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [dndHelpDesk](https://www.dndhelp-desk.co.za/)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Python For Data Science
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
