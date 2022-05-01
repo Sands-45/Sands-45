@@ -43,6 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sands-45&show_icons=true&locale=en&layout=compact" alt="sands-45" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sands-45&show_icons=true&locale=en" alt="sands-45" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sands-45&show_icons=true&locale=en" alt="sands-45" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sands-45&" alt="sands-45" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sands-45&" alt="sands-45" /></p>
