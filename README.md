@@ -26,6 +26,7 @@
 - 📄 Know about my experiences [https://profile.codersrank.io/user/sands-45/](https://profile.codersrank.io/user/sands-45/)
 
 - ⚡ Fun fact **Fun fact: I keep night shift swithed on at all times**
+- 👌How to debug web apps in mobile devices using your PC **type on your address bar : chrome://inspect/#devices**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
