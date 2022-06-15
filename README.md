@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Sands</h1>
 <p align="center">I'm a passionate programmer who loves data and problem-solving. Being a full-stack developer allows me to not only develop client-facing apps and websites but also develop them with cutting-edge back-end support. I specialize in building robust performance management web apps and dashboards that do all the heavy lifting for your administrative team. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization, and also promising technologies like Blockchain and PWAs.</p>
 
@@ -44,3 +45,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sands-45&show_icons=true&locale=en" alt="sands-45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sands-45&" alt="sands-45" /></p>
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/summary@0.9.11/codersrank-summary.min.js"></script>
+<codersrank-summary username="Sands-45"></codersrank-summary>
+
