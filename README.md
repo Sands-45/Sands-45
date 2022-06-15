@@ -45,7 +45,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sands-45&show_icons=true&locale=en" alt="sands-45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sands-45&" alt="sands-45" /></p>
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@0.9.11/codersrank-summary.min.js"></script>
-<codersrank-summary username="Sands-45"></codersrank-summary>
+https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sands-45
 
