@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sands_ma45" target="blank"><img src="https://img.shields.io/twitter/follow/sands_ma45?logo=twitter&style=for-the-badge" alt="sands_ma45" /></a> </p>
 
-- 🔭 I’m currently working on [dndHelp-desk](https://github.com/dndHelp-Desk)
+- 🔭 I’m currently working on [dndHelp-desk](https://github.com/dndHelp-Desk45)
 
 - 🌱 I’m currently learning **I’m currently learning Python For Data Science**
 
