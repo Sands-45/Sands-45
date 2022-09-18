@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sands-45&label=Profile%20views&color=0e75b6&style=flat" alt="sands-45" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sands-45" alt="sands-45" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sands_ma45" target="blank"><img src="https://img.shields.io/twitter/follow/sands_ma45?logo=twitter&style=for-the-badge" alt="sands_ma45" /></a> </p>
-
 - 🔭 I’m currently working on [Basedesk](https://github.com/dndHelp-Desk45) and [Smartfee](https://)
 
 - 🌱 I’m currently learning **I’m currently learning Python For Data Science**
