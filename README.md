@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Basedesk](https://github.com/dndHelp-Desk45) and [Smartfee](https://)
 
-- 🌱 I’m currently learning **I’m currently learning Python For Data Science**
+- 🌱 I’m currently learning **I’m currently learning Python For Data Science & DevOps**
 
 - 👯 I’m looking to collaborate on [Mantine](https://ui.mantine.dev/)
 
