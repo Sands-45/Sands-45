@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sands</h1>
+<h1 align="center">Hi 👋,  I'm Sands</h1>
 <p align="center">I'm a passionate programmer who loves data and problem-solving. Being a full-stack developer allows me to not only develop client-facing apps and websites but also develop them with cutting-edge back-end support. I specialize in building robust performance management web apps and dashboards that do all the heavy lifting for your administrative team. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimization, and also promising technologies like Blockchain and PWAs.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sands-45&label=Profile%20views&color=0e75b6&style=flat" alt="sands-45" /> </p>
