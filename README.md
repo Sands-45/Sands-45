@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Basedesk<br>👯 I’m looking to collaborate on any open-source project<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about web development
+🔭 I’m currently working on Basedesk && Stall && DanAI <br>👯 I’m looking to collaborate on any open-source project<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about web development
 
 
 # 💻 Tech Stack:
