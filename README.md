@@ -1,8 +1,8 @@
-🚀 Currently crafting solutions on freelance endeavors.
-🤖 Eager to contribute to open-source initiatives.
-🛠️ Actively developing a diverse range of projects.
-🧠 Enhancing my expertise in Machine Learning.
-💡 Let's talk about all things software development!
+#🚀 Currently crafting solutions on freelance endeavors.<br/>
+#🤖 Eager to contribute to open-source initiatives.<br/>
+#🛠️ Actively developing a diverse range of projects.<br/>
+#🧠 Enhancing my expertise in Machine Learning.<br/>
+#💡 Let's talk about all things software development!<br/>
 
 
 # 💻 Tech Stack:
