@@ -1,5 +1,8 @@
-# 💫 About Me:
-🔭 I’m currently working on freelance projects <br>👯 I’m looking to collaborate on any open-source project<br>🤝 I’m Currently Developing a lot of projects<br>🌱 I’m currently learning Machine Learning <br>💬 Ask me anything about software development
+🚀 Currently crafting solutions on freelance endeavors.
+🤖 Eager to contribute to open-source initiatives.
+🛠️ Actively developing a diverse range of projects.
+🧠 Enhancing my expertise in Machine Learning.
+💡 Let's talk about all things software development!
 
 
 # 💻 Tech Stack:
